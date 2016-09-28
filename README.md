@@ -1,2 +1,5 @@
 # hello_world
-just another repository
+
+This is just another repository for testing,
+
+thank you for watching!
